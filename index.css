@@ -1,0 +1,199 @@
+h1{
+   
+color: darkgoldenrod;
+font-family: sans-serif;
+}
+hr{
+    color:darkgoldenrod;
+}
+.me{
+color:dodgerblue;
+font-size: 20px;
+}
+.selection{
+color:dodgerblue;
+background-color: white;
+border:1px solid dodgerblue;
+text-align: center;
+margin-bottom:40px;
+}
+.selection:hover{
+background-color:darkblue;
+cursor: pointer;
+
+}
+body{
+    background-color: bisque;
+}
+ul{
+    color:grey;
+}
+.rasm{
+width:900px;
+height: 650px;
+border-radius: 10px;
+object-fit: cover;
+display: block;
+margin: auto;
+}
+.text{
+color: darkorchid;
+font-size: 22px;
+}
+.religion{
+color: brown;
+font-size: large;
+}
+.interest{
+color: coral;
+font-size: 22px;
+}
+.navbar{
+    width:100%;
+    height:100px;
+    background-color: #444;
+    color: whitesmoke;
+font-size:25px;
+padding-top: 40px;
+padding-left: 190px;
+
+}
+.actor{
+width:100px;
+height:100px;
+border-radius:50%;
+padding-right:20px;
+object-fit: cover;
+}
+.hi{
+color:brown ;
+font-size:25px;
+
+}
+.btn{
+border-radius: 20px;
+color: dodgerblue;
+background-color: whitesmoke;
+border: 2px solid dodgerblue;
+width: 150px;
+height: 36px;   
+display: block;
+margin: auto;
+}
+.btn:hover{
+    background-color: dodgerblue;
+}
+.ready{
+font-size: 25px;
+font-family: cursive;
+color: maroon;
+text-align: center;
+}
+h3{
+font-family: sans-serif;
+color: brown;
+}
+.coffee{
+color: brown;
+font-size: 22px;
+}
+.link{
+color: blueviolet;
+line:none;
+}
+.photo{
+width:700px ;
+height:650px;
+object-fit: cover;
+border-radius:10px;
+border: 2px solid chocolate ;
+}
+.taste{
+color:darkmagenta;
+}
+.home{
+    color:grey;
+    text-align: center;
+    font-size: 30px;
+    padding-right: 60px;
+}
+.button{
+border: 2px solid crimson;
+width: 150px;
+height: 36px;
+color: crimson;
+border-radius: 20px;
+}
+.location{
+color: black;
+font-size: 18px;
+}
+.join{
+color: black;
+border: 2px dotted #333;
+border-radius: 18px;
+}
+.label{
+color:#333;
+font-size:20px;
+}
+input{
+    border-radius: 8px;
+    border: 1px solid #333;
+    width: 150px;
+    height: 25px;
+}
+input:hover{
+    background-color: cyan;
+}
+.send{
+width: 150px;
+height: 36px;
+color: crimson;
+background-color: white;
+border: 1px solid crimson;
+border-radius: 14px;
+font-size: 18px;
+font-weight: 200;
+}
+.tg{
+    color: crimson;
+    list-style: none;
+}
+.end{
+    width: 150px;
+height: 36px;
+color:whitesmoke;
+background-color:yellow;
+border: 1px solid yellow;
+border-radius: 15px;
+font-size: large;
+}
+.disliked{
+width: 150px;
+height: 36px;
+color:white;
+background-color:red;
+border: 1px solid red;
+border-radius: 15px;
+font-size: large;
+}
+.subscribe{
+width: 150px;
+height: 36px;
+color:darkorchid;
+background-color:white;
+border: 1px solid darkorchid;
+border-radius: 15px;
+font-size: large;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
